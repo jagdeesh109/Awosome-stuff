@@ -13,6 +13,6 @@ JSON [link](http://www.json.org/)
 DataBases : 
 
 Standard Database : 
-1. Employee Database [link](https://github.com/datacharmer/test_db) 
-
+1. Employee MYsql  Database [link](https://github.com/datacharmer/test_db)  
+2. Oracle sample Database  [link](https://github.com/oracle/db-sample-schemas) 
  
