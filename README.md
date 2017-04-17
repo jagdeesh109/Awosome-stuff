@@ -18,6 +18,9 @@ Standard Database :
 3. Live Sql [link](https://livesql.oracle.com/apex/livesql/file/toc.html)
 
 Machine Learning :
+
+Getting Staated : Python Machine Learning sikit [link](https://www.datacamp.com/community/tutorials/machine-learning-python)
+
 Makpup : 1. DataSet :  
             i. kdnuggets [link](http://www.kdnuggets.com/datasets/index.html)
             ii. Kaggle [link](https://www.kaggle.com/)
