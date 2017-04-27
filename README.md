@@ -25,3 +25,9 @@ Makpup : 1. DataSet :
             i. kdnuggets [link](http://www.kdnuggets.com/datasets/index.html)
             ii. Kaggle [link](https://www.kaggle.com/)
             iii. UCI Machine Learning University [link](http://archive.ics.uci.edu/ml/datasets.html) 
+
+Books : 
+1. deeplearningbook [Link](http://www.deeplearningbook.org/)
+
+Slack Group :
+
