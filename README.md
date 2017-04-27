@@ -43,3 +43,7 @@ Online:
 
 Slack Group :
 
+Videos :
+
+1. vimeo [link](https://vimeo.com/sfmachinelearning/videos)
+
