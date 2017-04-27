@@ -24,13 +24,13 @@ Machine Learning :
 
 Getting Staated : Python Machine Learning sikit [link](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
-Makpup : 1. DataSet :  
+DataSet :  
 
-            i. kdnuggets [link](http://www.kdnuggets.com/datasets/index.html)
+1. kdnuggets [link](http://www.kdnuggets.com/datasets/index.html)
+       
+ 2. Kaggle [link](https://www.kaggle.com/)
             
-            ii. Kaggle [link](https://www.kaggle.com/)
-            
-            iii. UCI Machine Learning University [link](http://archive.ics.uci.edu/ml/datasets.html) 
+ 3. UCI Machine Learning University [link](http://archive.ics.uci.edu/ml/datasets.html) 
 
 Books : 
 1. deeplearningbook [Link](http://www.deeplearningbook.org/)
