@@ -35,5 +35,9 @@ DataSet :
 Books : 
 1. deeplearningbook [Link](http://www.deeplearningbook.org/)
 
+Online:
+
+1. noisebridge [link](https://www.noisebridge.net/index.php?title=Machine_Learning)
+
 Slack Group :
 
