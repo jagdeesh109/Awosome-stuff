@@ -39,5 +39,7 @@ Online:
 
 1. noisebridge [link](https://www.noisebridge.net/index.php?title=Machine_Learning)
 
+2. hakka labs [link](https://www.hakkalabs.co/)
+
 Slack Group :
 
